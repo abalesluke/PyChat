@@ -55,3 +55,15 @@ This project is developed for educational purposes and should be used responsibl
 
 ## Contributing?
 Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+
+## Preview
+### Login
+![image](https://github.com/abalesluke/PyChat/assets/108006281/76849b8b-5744-41ff-91b8-3f2696cc58c4)
+
+## Chat
+![image](https://github.com/abalesluke/PyChat/assets/108006281/2350038a-a0fd-40c5-9da8-a592360297e3)
+
+## Firebase realtime database
+![image](https://github.com/abalesluke/PyChat/assets/108006281/0437cd19-8640-443a-9ec1-67ef0a6c42e3)
+
