@@ -52,3 +52,5 @@ To get started with PyChat, follow these steps:
 ## Disclaimer
 This project is developed for educational purposes and should be used responsibly. The I am not responsible for any misuse or unethical use of the PyChat system.
 
+## Contributing?
+Contributions are welcome! Feel free to open an issue or submit a pull request.
