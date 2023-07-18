@@ -19,13 +19,14 @@ PyChat is an anonymous chat system built using Python. It provides a platform fo
 - **Security Reminder**: Please ensure that you do not abuse or share your Firebase credentials with others. Protect your credentials to maintain the security of your Firebase account and the chat system.
 - **My Credentials**: I did not remove my Firebase credentials for instant use of this tool. Please don't abuse my credentials.
 ## Getting Started
+**Quick installation**: `pip3 install anonpychat` <- this quick installation feature comming soon.
 
 To get started with PyChat, follow these steps:
 
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your_username/PyChat.git
+   git clone https://github.com/abalesluke/PyChat.git
    ```
 2. Install the required dependencies:
    ```shell
